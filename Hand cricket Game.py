@@ -1,3 +1,7 @@
+# Author : Manoj G
+# Date : 15-07-2024
+# Description : Hand Cricket game with random number generator 
+
 import random
 
 def get_valid_input(prompt, input_type=str, valid_options=None, min_value=None, max_value=None):
